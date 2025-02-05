@@ -30,9 +30,9 @@
 
 
 
-latest and greatest unofficial DeepSeek AppImage
+latest and greatest unofficial QwenAi AppImage
 qt6 cpp and gtk3 appimage built for arch and debian
-this simply loads the deepseek website 
+this simply loads the QwenAI website 
 
 due to region restrictions 
 this website may not work for you please check your current law for your country before accessing this site
@@ -41,9 +41,6 @@ this website may not work for you please check your current law for your country
 If you like what I'm doing and want to support me to improve, please consider donating.
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
-![2025-02-04-214447_hyprshot](https://github.com/user-attachments/assets/e53b7f2b-287a-488e-afa9-047ba391ecab)
-![2025-02-04-224220_hyprshot](https://github.com/user-attachments/assets/db2acbe0-3fde-415f-b677-67e24caf0b4c)
-![2025-02-04-203137_hyprshot](https://github.com/user-attachments/assets/2c3c87d7-1156-4a9c-a73a-178138d64bb6)
 
 
 
