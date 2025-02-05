@@ -42,7 +42,6 @@ If you like what I'm doing and want to support me to improve, please consider do
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
 <div align="center">
-
 Arch Qt6 v1.0 05-02-2025
 <div align="center">
 Arch Gtk v1.0 05-02-2025
