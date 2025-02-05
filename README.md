@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/DeepSeekAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/DeepSeekAppImage/releases/tag/Arch-Debian-v1.0-04-02-2025)
+[![Version](https://img.shields.io/github/v/release/claudemods/QwenAiAppimage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/QwenAiAppimage/releases/tag/v1.0-05-2025)
 <div align="center">
 
 ## [ Support Me ](https://www.paypal.com/paypalme/claudemods?country.x=GB&locale)
